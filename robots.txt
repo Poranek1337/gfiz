@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poranek1337.github.io/gfiz/sitemap.xml
